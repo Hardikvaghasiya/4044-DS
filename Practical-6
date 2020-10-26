@@ -2,7 +2,7 @@
 #roll no:-4044
 #class:-sycs
 
-nums = [5,4,4072,-1]
+nums = [5,4,4044,-1]
 a = str(input("enter the string i for insertion sort , b for bubble sort , s for selection sort : "))
 if a=='i' or a =='I':
    
